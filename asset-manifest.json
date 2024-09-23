@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/examp/static/css/main.f855e6bc.css",
-    "main.js": "/examp/static/js/main.e600455e.js",
-    "static/js/453.b0f29fac.chunk.js": "/examp/static/js/453.b0f29fac.chunk.js",
-    "index.html": "/examp/index.html",
-    "main.f855e6bc.css.map": "/examp/static/css/main.f855e6bc.css.map",
-    "main.e600455e.js.map": "/examp/static/js/main.e600455e.js.map",
-    "453.b0f29fac.chunk.js.map": "/examp/static/js/453.b0f29fac.chunk.js.map"
+    "main.css": "/react-scratchcard/static/css/main.f855e6bc.css",
+    "main.js": "/react-scratchcard/static/js/main.55c35763.js",
+    "static/js/453.b0f29fac.chunk.js": "/react-scratchcard/static/js/453.b0f29fac.chunk.js",
+    "index.html": "/react-scratchcard/index.html",
+    "main.f855e6bc.css.map": "/react-scratchcard/static/css/main.f855e6bc.css.map",
+    "main.55c35763.js.map": "/react-scratchcard/static/js/main.55c35763.js.map",
+    "453.b0f29fac.chunk.js.map": "/react-scratchcard/static/js/453.b0f29fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e600455e.js"
+    "static/js/main.55c35763.js"
   ]
 }
